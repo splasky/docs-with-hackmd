@@ -1,5 +1,5 @@
 destination: ./build
-baseurl: 'docs-with-hackmd'
-title: "My doc site"
-theme: just-the-docs
-search_enabled: false
+baseurl: 'https://splasky.github.io/docs-with-hackmd'
+title: "hychang site"
+remote_theme: hydecorp/hydejack
+search_enabled: true
